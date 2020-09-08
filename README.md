@@ -1,1 +1,2 @@
-[![https://octodex.github.com/](https://octodex.github.com/images/hula_loop_octodex03.gif)](https://octodex.github.com/)
+
+<a href="https://octodex.github.com/"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="600" height="600" alt="daft sebass"> </a>
