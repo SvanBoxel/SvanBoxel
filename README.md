@@ -18,5 +18,6 @@
     <img src="https://img.shields.io/github/followers/svanboxel?label=follow&style=social" />
   </a>
 </div>
-
+<br/><br/>
+<sub><a href="https://github.com/SvanBoxel/SvanBoxel/blob/master/computer-and-me.md">* Happy coding!</a></sub>
 </div>
